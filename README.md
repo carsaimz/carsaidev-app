@@ -92,7 +92,7 @@ Encontrou um bug ou tem uma sugestão? Por favor, abra uma issue descrevendo o p
 
 📄 Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](tab=MIT-1-ov-file#) para mais detalhes.
 
 🙌 Agradecimentos
 
