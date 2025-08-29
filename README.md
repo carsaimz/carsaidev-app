@@ -18,10 +18,6 @@ Este aplicativo foi desenvolvido para proporcionar uma experiência mais conveni
 - ⚡ **Desempenho otimizado** para uma experiência fluída
 - 🌐 **Acesso offline** a conteúdo pré-carregado
 
-## 📸 Preview
-
-*(Adicione screenshots do aplicativo aqui)*
-
 ## 🚀 Status do Projeto
 
 ⚠️ **Versão de Teste** - O aplicativo está atualmente em fase de testes. 
@@ -47,11 +43,11 @@ git clone https://github.com/carsaimz/carsaidev-app.git
 
 🛠️ Tecnologias Utilizadas
 
-· Android Studio - Ambiente de desenvolvimento
-· Java/Kotlin - Linguagem de programação
-· Firebase Cloud Messaging - Sistema de notificações
-· WebView - Integração com conteúdo web
-· Material Design - Interface do usuário
+- Android Studio - Ambiente de desenvolvimento
+- Java/Kotlin - Linguagem de programação
+- Firebase Cloud Messaging - Sistema de notificações
+- WebView - Integração com conteúdo web
+- Material Design - Interface do usuário
 
 🤝 Como Contribuir
 
@@ -65,11 +61,11 @@ Contribuições são sempre bem-vindas! Se você deseja ajudar:
 
 📋 Formas de Contribuir
 
-· 💻 Desenvolvimento: Melhore funcionalidades existentes ou adicione novas
-· 🐛 Reportar Bugs: Encontrou um problema? Abra uma issue
-· 💡 Sugestões: Tem ideias para melhorar o app? Compartilhe!
-· 📚 Documentação: Ajude a melhorar a documentação do projeto
-· 🔍 Testes: Teste o aplicativo e reporte problemas
+- 💻 Desenvolvimento: Melhore funcionalidades existentes ou adicione novas
+- 🐛 Reportar Bugs: Encontrou um problema? Abra uma issue
+- 💡 Sugestões: Tem ideias para melhorar o app? Compartilhe!
+- 📚 Documentação: Ajude a melhorar a documentação do projeto
+- 🔍 Testes: Teste o aplicativo e reporte problemas
 
 💰 Apoio Financeiro
 
@@ -84,11 +80,11 @@ Seu apoio ajuda a manter e melhorar nossos projetos de código aberto!
 
 📞 Contato
 
-· Email: carsaideveloper@gmail.com
-· WhatsApp: +258 862 414 345
-· Chamadas/SMS: +258 844 414 234
-· GitHub: @carsaimz
-· Site: https://carsaidev.shop
+- Email: carsaideveloper@gmail.com
+- WhatsApp: +258 862 414 345
+- Chamadas/SMS: +258 844 414 234
+- GitHub: @carsaimz
+- Site: https://carsaidev.shop
 
 🐛 Reportar Problemas
 
