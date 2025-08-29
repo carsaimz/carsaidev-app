@@ -1,7 +1,7 @@
 # CarsaiDev App
 
 [![GitHub release](https://img.shields.io/github/v/release/carsaimz/carsaidev-app?style=for-the-badge)](https://github.com/carsaimz/carsaidev-app/releases)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://github.com/carsaimz/carsaidev-app?tab=readme-ov-file#)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/carsaimz/carsaidev-app/pulls)
 
 Um aplicativo nativo para acesso rápido ao site da **CarsaiDev** - sua solução em desenvolvimento web e hospedagem em Moçambique.
