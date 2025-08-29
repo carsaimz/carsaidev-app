@@ -72,9 +72,9 @@ Contribuições são sempre bem-vindas! Se você deseja ajudar:
 Se você deseja apoiar financeiramente o desenvolvimento deste e de outros projetos:
 
 Método Número/Detalhes
-M-Pesa 8444414345
-Emola 862414345
-Mkesh 835020143
+- M-Pesa 8444414345
+- Emola 862414345
+- Mkesh 835020143
 
 Seu apoio ajuda a manter e melhorar nossos projetos de código aberto!
 
